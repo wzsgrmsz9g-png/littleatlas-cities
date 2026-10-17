@@ -1,0 +1,26 @@
+{
+ "city": "zhu-cheng-city-cn",
+ "photos": [
+  {
+   "author": "Vitsuha",
+   "bytes": 147254,
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "path": "media/31/3191514a60c39f6db7ffa9419deb92341ee7273a0613173d0cf18121f4d83874.webp",
+   "sha256": "3191514a60c39f6db7ffa9419deb92341ee7273a0613173d0cf18121f4d83874",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%B1%B1%E6%9D%B1%E9%BE%8D%E9%AA%A8%E6%9E%B6_%E5%9C%A8%E8%AB%B8%E5%9F%8E.jpg",
+   "title": "山東龍骨架 在諸城"
+  },
+  {
+   "author": "Vitsuha",
+   "bytes": 33788,
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "path": "media/7b/7b1f67dec8fdfb875d2b4cf28b591ef50bef3d44b278e1fc4c0b2c1880fb841a.webp",
+   "sha256": "7b1f67dec8fdfb875d2b4cf28b591ef50bef3d44b278e1fc4c0b2c1880fb841a",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%B1%B1%E6%9D%B1%E9%BE%8D%E9%AA%A8%E6%9E%B6_%E5%9C%A8%E8%AB%B8%E5%9F%8E.jpg",
+   "title": "山東龍骨架 在諸城"
+  }
+ ],
+ "schemaVersion": 2
+}

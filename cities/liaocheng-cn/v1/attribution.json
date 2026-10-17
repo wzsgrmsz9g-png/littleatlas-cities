@@ -1,0 +1,46 @@
+{
+ "city": "liaocheng-cn",
+ "photos": [
+  {
+   "author": "Rolfmueller",
+   "bytes": 47212,
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "path": "media/1d/1da2d7823d820db2ddd962cec6c08cdf4d59271f34423677d85135794386eb71.webp",
+   "sha256": "1da2d7823d820db2ddd962cec6c08cdf4d59271f34423677d85135794386eb71",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shanshan_hall.jpg",
+   "title": "Shanshan hall"
+  },
+  {
+   "author": "Rolfmueller",
+   "bytes": 197982,
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "path": "media/45/4564fe4ee820e1d61c06adf90d2e52a38cb20da48c870682101302d87fddbd6b.webp",
+   "sha256": "4564fe4ee820e1d61c06adf90d2e52a38cb20da48c870682101302d87fddbd6b",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shanshan_hall.jpg",
+   "title": "Shanshan hall"
+  },
+  {
+   "author": "Rolfmueller",
+   "bytes": 188688,
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "path": "media/47/47eb8391d72c43d5f4aa9fd489d5e3ea2fde68fdec4bf4b1415edbd5cf7801fb.webp",
+   "sha256": "47eb8391d72c43d5f4aa9fd489d5e3ea2fde68fdec4bf4b1415edbd5cf7801fb",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shanshan_hall_main_gate.jpg",
+   "title": "Shanshan hall main gate"
+  },
+  {
+   "author": "Rolfmueller",
+   "bytes": 72180,
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "path": "media/c4/c49ab8086f3ab252f46382dbfa6d3089416e9e47b4f1ac8dd285db5a0e3339c3.webp",
+   "sha256": "c49ab8086f3ab252f46382dbfa6d3089416e9e47b4f1ac8dd285db5a0e3339c3",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shanshan_hall_main_gate.jpg",
+   "title": "Shanshan hall main gate"
+  }
+ ],
+ "schemaVersion": 2
+}

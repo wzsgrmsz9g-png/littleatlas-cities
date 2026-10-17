@@ -1,0 +1,20 @@
+# Photo credits: Linyi (CN)
+
+12 image files (full size and thumbnails). All from Wikimedia Commons. Each was resized and converted to WebP; no other changes.
+
+Machine-readable version: [attribution.json](attribution.json)
+
+| File | Title | Author | License | Source |
+|---|---|---|---|---|
+| [0e0297f44c42…](../../../media/0e/0e0297f44c42f4af3a467896b9606bbf2994f297979e6e7092bb88bba777e57d.webp) | Confucian Temple of Linyi | kanegen | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Confucian_Temple_of_Linyi.jpg) |
+| [107d337e6e7b…](../../../media/10/107d337e6e7b0b41abe874676c142d594dd6f56cd3efdcdf9a90782423c0192e.webp) | 临沂动植物园南门 | WPTO | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:%E4%B8%B4%E6%B2%82%E5%8A%A8%E6%A4%8D%E7%89%A9%E5%9B%AD%E5%8D%97%E9%97%A8.jpg) |
+| [19d66cfd98ce…](../../../media/19/19d66cfd98ce45dad2e67f878a5c4b557cc76dc0c053247f8f4565822a0bf6e7.webp) | The Ancient Han book and Tomb Museum (2902252794) | kanegen from Tokyo, Japan | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:The_Ancient_Han_book_and_Tomb_Museum_(2902252794).jpg) |
+| [2556ba0cdf7a…](../../../media/25/2556ba0cdf7ac539b37308b416b1cc10e6aa5da3b8426ec2b6f47ccdcab4efde.webp) | 临沂动植物园南门 | WPTO | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:%E4%B8%B4%E6%B2%82%E5%8A%A8%E6%A4%8D%E7%89%A9%E5%9B%AD%E5%8D%97%E9%97%A8.jpg) |
+| [28a1db32b571…](../../../media/28/28a1db32b5711267f797375ca47f25a3ee798534079b48196b1e458bd638f45c.webp) | The Ancient Han book and Tomb Museum (2902252794) | kanegen from Tokyo, Japan | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:The_Ancient_Han_book_and_Tomb_Museum_(2902252794).jpg) |
+| [31b2d368c467…](../../../media/31/31b2d368c4674e9f5d79e1f0f2fddef8d7e1e5d7b41a956bedbded3333887116.webp) | Confucian Temple of Linyi | kanegen | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Confucian_Temple_of_Linyi.jpg) |
+| [432a51d8db06…](../../../media/43/432a51d8db06cd5a272f802ab6ba323447d5c711701481cde51ba3497dfc85f8.webp) | Yinqueshan Han tomb museum | kanegen | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Yinqueshan_Han_tomb_museum.jpg) |
+| [4a3099ac5405…](../../../media/4a/4a3099ac5405239fe4e36c1cdb994832f0519e30140ce7d4e5bc567f8fb82711.webp) | Confucius Temple of Linyi | https://www.flickr.com/photos/kanegen/ | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Confucius_Temple_of_Linyi.jpg) |
+| [9d05c8ccf3ef…](../../../media/9d/9d05c8ccf3ef9cc722186b76e67adc5ce3f9ef8a68b90183e00af74ab83a013f.webp) | Confucius Temple of Linyi | https://www.flickr.com/photos/kanegen/ | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Confucius_Temple_of_Linyi.jpg) |
+| [b36fb037001a…](../../../media/b3/b36fb037001ab2287290e0ba003448c87ccb268339c59dcaf2362d726069fa5d.webp) | Yinqueshan Han tomb museum | kanegen | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Yinqueshan_Han_tomb_museum.jpg) |
+| [c462eebeca5a…](../../../media/c4/c462eebeca5a02dab08db317afcb2b2268fd7eaf3c7f2b287b0768dc35aff5f8.webp) | The Ancient Han book and Tomb Museum (2902253910) | kanegen from Tokyo, Japan | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:The_Ancient_Han_book_and_Tomb_Museum_(2902253910).jpg) |
+| [d63126cb9595…](../../../media/d6/d63126cb95950d46259afdf1c047bbaa3e4354e3b5bc979a47827843ba8004b2.webp) | The Ancient Han book and Tomb Museum (2902253910) | kanegen from Tokyo, Japan | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:The_Ancient_Han_book_and_Tomb_Museum_(2902253910).jpg) |

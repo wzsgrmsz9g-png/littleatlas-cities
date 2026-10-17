@@ -1,0 +1,626 @@
+{
+ "city": "qingdao-cn",
+ "photos": [
+  {
+   "author": "Sprt98",
+   "bytes": 31892,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/02/025e8a4e9d3cff31fb4def3f9e0e18e4dd7238b87bed5c9a2aed834572eefb98.webp",
+   "sha256": "025e8a4e9d3cff31fb4def3f9e0e18e4dd7238b87bed5c9a2aed834572eefb98",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E6%B0%B4%E6%97%8F%E9%A6%86%E2%80%94%E2%80%94%E6%B5%B7%E6%B4%8B%E7%94%9F%E7%89%A9%E9%A6%86%E5%86%85%E9%83%A804.jpg",
+   "title": "青岛水族馆——海洋生物馆内部04"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 15660,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/03/03694a11799ea26e98cae121de90c6d2a86f8c2efe15b8b01ade00a8a526721a.webp",
+   "sha256": "03694a11799ea26e98cae121de90c6d2a86f8c2efe15b8b01ade00a8a526721a",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E7%BA%BA%E7%BB%87%E5%8D%9A%E7%89%A9%E9%A6%86_2017-08-26.jpg",
+   "title": "青岛纺织博物馆 2017-08-26"
+  },
+  {
+   "author": "风之清扬",
+   "bytes": 52684,
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "path": "media/03/0373472adbace6ff264b88c011b80ee9a3bfb7f632b2b62a0a365e82c2062f24.webp",
+   "sha256": "0373472adbace6ff264b88c011b80ee9a3bfb7f632b2b62a0a365e82c2062f24",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:XinHaoShan_Park_of_Qingdao.JPG",
+   "title": "XinHaoShan Park of Qingdao"
+  },
+  {
+   "author": "K.Y.K.Z.K.",
+   "bytes": 17266,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/04/04ab53c4041551a8cdcb708e75c6a5e323a34f9da0b3c2ce208cd1b210d17a11.webp",
+   "sha256": "04ab53c4041551a8cdcb708e75c6a5e323a34f9da0b3c2ce208cd1b210d17a11",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naval_Museum_of_China.jpg",
+   "title": "Naval Museum of China"
+  },
+  {
+   "author": "Benlisquare",
+   "bytes": 38908,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/0d/0d2b66d58fdb06f97e62b521885b737cf6b2c0a26ac3d3a90c1052ce41d955df.webp",
+   "sha256": "0d2b66d58fdb06f97e62b521885b737cf6b2c0a26ac3d3a90c1052ce41d955df",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:PLA_Naval_Museum_main_building,_front_view.JPG",
+   "title": "PLA Naval Museum main building, front view"
+  },
+  {
+   "author": "猫猫的日记本",
+   "bytes": 17934,
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "path": "media/10/107694b749b8d3dfab630675311a0dc05b1abc4956a6527b3e426450d71e1ef0.webp",
+   "sha256": "107694b749b8d3dfab630675311a0dc05b1abc4956a6527b3e426450d71e1ef0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jiaoao_European_Prison_2007-04.JPG",
+   "title": "Jiaoao European Prison 2007-04"
+  },
+  {
+   "author": "猫猫的日记本",
+   "bytes": 81268,
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "path": "media/11/112decdff415a0523fbd03f7631bac853730a5e4f93e88de10d04cfc0e422444.webp",
+   "sha256": "112decdff415a0523fbd03f7631bac853730a5e4f93e88de10d04cfc0e422444",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jiaoao_European_Prison_2007-04.JPG",
+   "title": "Jiaoao European Prison 2007-04"
+  },
+  {
+   "author": "Sprt98",
+   "bytes": 17498,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/15/15c23a264c7f141f3ea3ddfdb8a103b13ba02a6933015ca32b2116ee6cc94b7a.webp",
+   "sha256": "15c23a264c7f141f3ea3ddfdb8a103b13ba02a6933015ca32b2116ee6cc94b7a",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E6%B0%B4%E6%97%8F%E9%A6%86%E2%80%94%E2%80%94%E6%B5%B7%E5%BA%95%E4%B8%96%E7%95%8C%E5%86%85%E9%83%A803.jpg",
+   "title": "青岛水族馆——海底世界内部03"
+  },
+  {
+   "author": "Sprt98",
+   "bytes": 18766,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/19/1975ca38412015815b4c572c918663cc5145214fb0f1afa3e8636ef6e310972c.webp",
+   "sha256": "1975ca38412015815b4c572c918663cc5145214fb0f1afa3e8636ef6e310972c",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E6%B0%B4%E6%97%8F%E9%A6%86%E2%80%94%E2%80%94%E6%B5%B7%E6%B4%8B%E7%94%9F%E7%89%A9%E9%A6%86%E5%86%85%E9%83%A802.jpg",
+   "title": "青岛水族馆——海洋生物馆内部02"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 97710,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/1a/1ad01e22568f668414db6ffa78338ad89b7589203b476736208bafd587990825.webp",
+   "sha256": "1ad01e22568f668414db6ffa78338ad89b7589203b476736208bafd587990825",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E6%B0%B4%E5%B8%88%E9%A5%AD%E5%BA%97%E6%97%A7%E5%9D%80%E5%8D%B3%E5%B0%86%E6%95%B4%E4%BF%AE%E5%AE%8C%E6%AF%95.jpg",
+   "title": "青岛水师饭店旧址即将整修完毕"
+  },
+  {
+   "author": "Sprt98",
+   "bytes": 18834,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/23/236b2af10719bd493476318ce44a98c69d1424e42a8d351875faad113c9e7e3b.webp",
+   "sha256": "236b2af10719bd493476318ce44a98c69d1424e42a8d351875faad113c9e7e3b",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E6%B0%B4%E6%97%8F%E9%A6%86%E2%80%94%E2%80%94%E6%B5%B7%E5%BA%95%E4%B8%96%E7%95%8C%E5%86%85%E9%83%A801.jpg",
+   "title": "青岛水族馆——海底世界内部01"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 145468,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/24/240969ae9b752566754f481afb756f9312a3cf6ff00649531b8ac95e9a4eb341.webp",
+   "sha256": "240969ae9b752566754f481afb756f9312a3cf6ff00649531b8ac95e9a4eb341",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E5%B1%B1%E7%82%AE%E5%8F%B0%E5%9C%B0%E4%B8%8B%E6%8E%A9%E8%94%BD%E9%83%A8%E5%8E%9F%E5%85%A5%E5%8F%A3_2020-01-01.jpg",
+   "title": "青岛山炮台地下掩蔽部原入口 2020-01-01"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 58428,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/34/34c1b9b1425cb98bfebe76440134a8f66456bc98a76d08dde90e272af7c61339.webp",
+   "sha256": "34c1b9b1425cb98bfebe76440134a8f66456bc98a76d08dde90e272af7c61339",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E7%BA%BA%E7%BB%87%E5%8D%9A%E7%89%A9%E9%A6%86_2017-08-26.jpg",
+   "title": "青岛纺织博物馆 2017-08-26"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 92402,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/35/35bc9f4bccbf96addd2f307a588d0f6871ba6384949f48ac1c494f1361298be0.webp",
+   "sha256": "35bc9f4bccbf96addd2f307a588d0f6871ba6384949f48ac1c494f1361298be0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E6%AC%A7%E4%BA%BA%E7%9B%91%E7%8B%B1%E5%A4%AA%E5%B9%B3%E8%B7%AF%E8%A7%86%E8%A7%92.jpg",
+   "title": "青岛欧人监狱太平路视角"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 160372,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/39/39c716b8145a091cb342f69146b6ffb974822c20b360f0c041ebe567c1a46ffe.webp",
+   "sha256": "39c716b8145a091cb342f69146b6ffb974822c20b360f0c041ebe567c1a46ffe",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E9%97%BB%E4%B8%80%E5%A4%9A%E6%95%85%E5%B1%85.jpg",
+   "title": "青岛闻一多故居"
+  },
+  {
+   "author": "Benlisquare",
+   "bytes": 9286,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/3a/3aebdd8cf49f48d5a0dcaf98e94d5faca1436153b607cf1cc9bf1f4dc0c7387a.webp",
+   "sha256": "3aebdd8cf49f48d5a0dcaf98e94d5faca1436153b607cf1cc9bf1f4dc0c7387a",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:PLA_Naval_Museum_main_building,_front_view.JPG",
+   "title": "PLA Naval Museum main building, front view"
+  },
+  {
+   "author": "Benlisquare",
+   "bytes": 16896,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/4d/4d7c8d0b1e130da95afe1e4e7bd0597ee8fbeeb06ddc4b795268c9301a9c1d9c.webp",
+   "sha256": "4d7c8d0b1e130da95afe1e4e7bd0597ee8fbeeb06ddc4b795268c9301a9c1d9c",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:PLA_Naval_Museum_main_building,_rear_view.JPG",
+   "title": "PLA Naval Museum main building, rear view"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 34970,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/53/53bb7cbf01275f1dfbf1f6f9721a4bb44571d9e8a0f27356997fff5875d659a8.webp",
+   "sha256": "53bb7cbf01275f1dfbf1f6f9721a4bb44571d9e8a0f27356997fff5875d659a8",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E9%97%BB%E4%B8%80%E5%A4%9A%E6%95%85%E5%B1%85_01_2019-12-28.jpg",
+   "title": "青岛闻一多故居 01 2019-12-28"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 192332,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/55/5523763a4ed2c43d59acf575067ab48b76c6a99521ba13e86d65ee2aadb71396.webp",
+   "sha256": "5523763a4ed2c43d59acf575067ab48b76c6a99521ba13e86d65ee2aadb71396",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E5%B1%B1%E7%82%AE%E5%8F%B0%E5%9C%B0%E4%B8%8B%E6%8E%A9%E8%94%BD%E9%83%A8%E5%85%A5%E5%8F%A3_2020-01-01.jpg",
+   "title": "青岛山炮台地下掩蔽部入口 2020-01-01"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 102632,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/55/55a7c7fbc45d2bc34f9530df9bce5aa61d8446be4fa253034405b2b9b980cfc8.webp",
+   "sha256": "55a7c7fbc45d2bc34f9530df9bce5aa61d8446be4fa253034405b2b9b980cfc8",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E6%B0%B4%E6%97%8F%E9%A6%86.jpg",
+   "title": "青岛水族馆"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 37366,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/5b/5b84e6f005501e4c7503215fd3cae23c08ebef7155adb255e029b3a3449a3993.webp",
+   "sha256": "5b84e6f005501e4c7503215fd3cae23c08ebef7155adb255e029b3a3449a3993",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E5%B1%B1%E7%82%AE%E5%8F%B0%E5%9C%B0%E4%B8%8B%E6%8E%A9%E8%94%BD%E9%83%A8%E5%85%A5%E5%8F%A3_2020-01-01.jpg",
+   "title": "青岛山炮台地下掩蔽部入口 2020-01-01"
+  },
+  {
+   "author": "赵乐鑫1989",
+   "bytes": 83198,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/5e/5e478d2890fcdc97b97b7b04826dc5d9da4d8e8b55621d6b27ecb0cbf9ec9bdb.webp",
+   "sha256": "5e478d2890fcdc97b97b7b04826dc5d9da4d8e8b55621d6b27ecb0cbf9ec9bdb",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%9D%A3%E6%A5%BC%E6%97%A7%E5%9D%80%E4%B8%9C%E9%9D%A2.jpg",
+   "title": "青岛德国总督楼旧址东面"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 42900,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/5e/5edb328573242d28b9ede0b4e12c455ea9d2d7a1d61eb9de772ed423fe4354f9.webp",
+   "sha256": "5edb328573242d28b9ede0b4e12c455ea9d2d7a1d61eb9de772ed423fe4354f9",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E5%AE%89%E5%BE%BD%E8%B7%AF16%E5%8F%B7_2015-01-31.jpg",
+   "title": "青岛安徽路16号 2015-01-31"
+  },
+  {
+   "author": "赵乐鑫1989",
+   "bytes": 21766,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/63/6305bc4ca017e2bcd20728daa544eb95b8ccb18a723ec38745f9bc5394e4a0e4.webp",
+   "sha256": "6305bc4ca017e2bcd20728daa544eb95b8ccb18a723ec38745f9bc5394e4a0e4",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%9D%A3%E6%A5%BC%E6%97%A7%E5%9D%80%E4%B8%9C%E9%9D%A2.jpg",
+   "title": "青岛德国总督楼旧址东面"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 173112,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/70/706bc7ef3697a5dbb3d068f8c25a9efd5cae091f6954fafe738db4d86f8c1884.webp",
+   "sha256": "706bc7ef3697a5dbb3d068f8c25a9efd5cae091f6954fafe738db4d86f8c1884",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E9%97%BB%E4%B8%80%E5%A4%9A%E6%95%85%E5%B1%85_01_2019-12-28.jpg",
+   "title": "青岛闻一多故居 01 2019-12-28"
+  },
+  {
+   "author": "Sprt98",
+   "bytes": 72138,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/74/74de679f4b8f3e6e3abb5472302eb68f5e21740175f30362ec44a5b902b3b8da.webp",
+   "sha256": "74de679f4b8f3e6e3abb5472302eb68f5e21740175f30362ec44a5b902b3b8da",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E6%B0%B4%E6%97%8F%E9%A6%86%E2%80%94%E2%80%94%E6%B5%B7%E6%B4%8B%E7%94%9F%E7%89%A9%E9%A6%86%E5%86%85%E9%83%A802.jpg",
+   "title": "青岛水族馆——海洋生物馆内部02"
+  },
+  {
+   "author": "Windmemories",
+   "bytes": 125244,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/7f/7f839e61388a8fafb9fe2fdb8999a4c349259864cdf8e6935f36822cba252e01.webp",
+   "sha256": "7f839e61388a8fafb9fe2fdb8999a4c349259864cdf8e6935f36822cba252e01",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:20240730_Former_Site_of_European_Prison_of_Qingdao.jpg",
+   "title": "20240730 Former Site of European Prison of Qingdao"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 23204,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/80/80c28415956510db6daa1e795d76af3cab22c67e2d2b612948e4e87397c473ba.webp",
+   "sha256": "80c28415956510db6daa1e795d76af3cab22c67e2d2b612948e4e87397c473ba",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E6%B0%B4%E6%97%8F%E9%A6%86.jpg",
+   "title": "青岛水族馆"
+  },
+  {
+   "author": "Sprt98",
+   "bytes": 55206,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/82/8232254b053d5b0b1609b53ba5429a82341699fe4d3693440cacad66f5bada50.webp",
+   "sha256": "8232254b053d5b0b1609b53ba5429a82341699fe4d3693440cacad66f5bada50",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E6%B0%B4%E6%97%8F%E9%A6%86%E2%80%94%E2%80%94%E6%B5%B7%E5%BA%95%E4%B8%96%E7%95%8C%E5%86%85%E9%83%A803.jpg",
+   "title": "青岛水族馆——海底世界内部03"
+  },
+  {
+   "author": "Sprt98",
+   "bytes": 16766,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/82/82748553a8f2cea2722bc242fd3e176be3cc1a05570ec69e6c492db720d699a6.webp",
+   "sha256": "82748553a8f2cea2722bc242fd3e176be3cc1a05570ec69e6c492db720d699a6",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E6%B0%B4%E6%97%8F%E9%A6%86%E2%80%94%E2%80%94%E6%B5%B7%E5%BA%95%E4%B8%96%E7%95%8C%E5%86%85%E9%83%A802.jpg",
+   "title": "青岛水族馆——海底世界内部02"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 26292,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/87/87943f64b24ada5f1ac1a0af6b137642e7863db8585f13abde310a773d006b82.webp",
+   "sha256": "87943f64b24ada5f1ac1a0af6b137642e7863db8585f13abde310a773d006b82",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E5%BE%B7%E5%9B%BD%E6%B0%B4%E5%85%B5%E4%BF%B1%E4%B9%90%E9%83%A8%E6%97%A7%E5%9D%80_Ehemaliges_Seemannshaus_Tsingtau.jpg",
+   "title": "青岛德国水兵俱乐部旧址 Ehemaliges Seemannshaus Tsingtau"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 23330,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/8f/8f6336851dd0115c3cd3f8b599473fa663a26eab29b7ba8b1a940b2737636c2b.webp",
+   "sha256": "8f6336851dd0115c3cd3f8b599473fa663a26eab29b7ba8b1a940b2737636c2b",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E4%B8%80%E6%88%98%E9%81%97%E5%9D%80%E5%8D%9A%E7%89%A9%E9%A6%86_2020-01-01.jpg",
+   "title": "青岛一战遗址博物馆 2020-01-01"
+  },
+  {
+   "author": "风之清扬",
+   "bytes": 130522,
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "path": "media/91/91efb6add452d02f97965d59f7939222d3fe50b067bc294087b2de1a191df293.webp",
+   "sha256": "91efb6add452d02f97965d59f7939222d3fe50b067bc294087b2de1a191df293",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:XinHaoShan_Park_of_Qingdao.JPG",
+   "title": "XinHaoShan Park of Qingdao"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 151800,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/95/9544c1a5fe29c61bb6d9ad5862cf6807e27ac2dc494643ee5749f105e539e80a.webp",
+   "sha256": "9544c1a5fe29c61bb6d9ad5862cf6807e27ac2dc494643ee5749f105e539e80a",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E5%B1%B1%E7%82%AE%E5%8F%B0%E5%B1%B1%E9%A1%B6%E6%8C%87%E6%8C%A5%E5%8F%B0%E9%81%97%E5%9D%80_2020-01-01.jpg",
+   "title": "青岛山炮台山顶指挥台遗址 2020-01-01"
+  },
+  {
+   "author": "Gauthier DELECROIX - 郭天 from Qingdao, China",
+   "bytes": 22606,
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "path": "media/9c/9c96aeb2df653133fa93ad9dbd4236ac5706dc42fb14d5b6539d8ee6298f3ae4.webp",
+   "sha256": "9c96aeb2df653133fa93ad9dbd4236ac5706dc42fb14d5b6539d8ee6298f3ae4",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Around_the_clock_(49594643801).jpg",
+   "title": "Around the clock (49594643801)"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 37710,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/ad/adc427ee635ce71e7144d9441d1b669aaaf8a550d02b3135b97e164d1d5e2147.webp",
+   "sha256": "adc427ee635ce71e7144d9441d1b669aaaf8a550d02b3135b97e164d1d5e2147",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E9%97%BB%E4%B8%80%E5%A4%9A%E6%95%85%E5%B1%85_01.jpg",
+   "title": "青岛闻一多故居 01"
+  },
+  {
+   "author": "K.Y.K.Z.K.",
+   "bytes": 77098,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/c6/c6e80ec097777a1a08e287ba0e3d90467799ad83a3c9cdc6258afb457c50a29f.webp",
+   "sha256": "c6e80ec097777a1a08e287ba0e3d90467799ad83a3c9cdc6258afb457c50a29f",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naval_Museum_of_China.jpg",
+   "title": "Naval Museum of China"
+  },
+  {
+   "author": "Brücke-Osteuropa",
+   "bytes": 27886,
+   "license": "Public domain",
+   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "path": "media/c7/c702fd38b490651182306f4d412aa34b5e8194aa69c968e29285f59345cca6ba.webp",
+   "sha256": "c702fd38b490651182306f4d412aa34b5e8194aa69c968e29285f59345cca6ba",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qingdao_02.JPG",
+   "title": "Qingdao 02"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 31218,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/c7/c7cbc3d2a2cd91096d8da0e2d2fa3c5fa4648ca02d9855bb0c2952b6ad91c4ba.webp",
+   "sha256": "c7cbc3d2a2cd91096d8da0e2d2fa3c5fa4648ca02d9855bb0c2952b6ad91c4ba",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E9%97%BB%E4%B8%80%E5%A4%9A%E6%95%85%E5%B1%85.jpg",
+   "title": "青岛闻一多故居"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 112740,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/c8/c8a041c55d086d57c7e223784e466898342f56ceb7cb8f9fe98b89b44bb9e876.webp",
+   "sha256": "c8a041c55d086d57c7e223784e466898342f56ceb7cb8f9fe98b89b44bb9e876",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E5%BE%B7%E5%9B%BD%E6%B0%B4%E5%85%B5%E4%BF%B1%E4%B9%90%E9%83%A8%E6%97%A7%E5%9D%80_Ehemaliges_Seemannshaus_Tsingtau.jpg",
+   "title": "青岛德国水兵俱乐部旧址 Ehemaliges Seemannshaus Tsingtau"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 93558,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/c9/c901eb028e1771c2133543bdb1d066cb7c08c7b56a50843ef59b21829ac3a463.webp",
+   "sha256": "c901eb028e1771c2133543bdb1d066cb7c08c7b56a50843ef59b21829ac3a463",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%B0%B4%E5%B8%88%E9%A5%AD%E5%BA%97%E5%A4%A7%E4%BF%AE%E6%9C%9F%E9%97%B4.jpg",
+   "title": "水师饭店大修期间"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 28810,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/c9/c902371cbebd63a7db1a3ef27ac27289e41bf2a048d8d7c855b7a1731d146cfb.webp",
+   "sha256": "c902371cbebd63a7db1a3ef27ac27289e41bf2a048d8d7c855b7a1731d146cfb",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E4%B8%AD%E5%B1%B1%E5%85%AC%E5%9B%AD%E6%AD%A3%E9%97%A8_2020-01-04.jpg",
+   "title": "青岛中山公园正门 2020-01-04"
+  },
+  {
+   "author": "Sprt98",
+   "bytes": 64676,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/cb/cbc72fae84741c9a09ffa4a47241ac8efb0c1916a5829929200b42538e616a80.webp",
+   "sha256": "cbc72fae84741c9a09ffa4a47241ac8efb0c1916a5829929200b42538e616a80",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E6%B0%B4%E6%97%8F%E9%A6%86%E2%80%94%E2%80%94%E6%B5%B7%E5%BA%95%E4%B8%96%E7%95%8C%E5%86%85%E9%83%A802.jpg",
+   "title": "青岛水族馆——海底世界内部02"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 24328,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/cc/cc0d999665f75e1e5c5ebf9e6fcb0b362dc924b8c88f6964a3741157036bbfe0.webp",
+   "sha256": "cc0d999665f75e1e5c5ebf9e6fcb0b362dc924b8c88f6964a3741157036bbfe0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%B0%B4%E5%B8%88%E9%A5%AD%E5%BA%97%E5%A4%A7%E4%BF%AE%E6%9C%9F%E9%97%B4.jpg",
+   "title": "水师饭店大修期间"
+  },
+  {
+   "author": "Brücke-Osteuropa",
+   "bytes": 119874,
+   "license": "Public domain",
+   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "path": "media/cf/cf07db99acc1fc2a8d8b2251b01add9d7a911059c6c9c170a31d9490ea0a0f2a.webp",
+   "sha256": "cf07db99acc1fc2a8d8b2251b01add9d7a911059c6c9c170a31d9490ea0a0f2a",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qingdao_02.JPG",
+   "title": "Qingdao 02"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 185176,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/d5/d5d4fea5facb6ca8df4f749fa6f6d430693430152f49bc05cf030ccc4ddc09d0.webp",
+   "sha256": "d5d4fea5facb6ca8df4f749fa6f6d430693430152f49bc05cf030ccc4ddc09d0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E5%AE%89%E5%BE%BD%E8%B7%AF16%E5%8F%B7_2015-01-31.jpg",
+   "title": "青岛安徽路16号 2015-01-31"
+  },
+  {
+   "author": "Benlisquare",
+   "bytes": 72162,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/d9/d9cd05f6d5e34b981873a3273317714f9e5506bbd0b933ae190e934ab682f091.webp",
+   "sha256": "d9cd05f6d5e34b981873a3273317714f9e5506bbd0b933ae190e934ab682f091",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:PLA_Naval_Museum_main_building,_rear_view.JPG",
+   "title": "PLA Naval Museum main building, rear view"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 135694,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/db/dbfef98081981d8e8556839e4b29bf9b5fc7de337db9fc7c3d9d2e85f97fa3c1.webp",
+   "sha256": "dbfef98081981d8e8556839e4b29bf9b5fc7de337db9fc7c3d9d2e85f97fa3c1",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E4%B8%AD%E5%B1%B1%E5%85%AC%E5%9B%AD%E6%AD%A3%E9%97%A8_2020-01-04.jpg",
+   "title": "青岛中山公园正门 2020-01-04"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 188776,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/dd/dd1e79b279eb296951e8b09fe475160eb5059b23c49b883700e464f8d60a76fd.webp",
+   "sha256": "dd1e79b279eb296951e8b09fe475160eb5059b23c49b883700e464f8d60a76fd",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E9%97%BB%E4%B8%80%E5%A4%9A%E6%95%85%E5%B1%85_01.jpg",
+   "title": "青岛闻一多故居 01"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 23046,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/dd/dd1ec14d0f07761c4ebaa932dcc64d8cc1a56798b8365971141937df4c2d128a.webp",
+   "sha256": "dd1ec14d0f07761c4ebaa932dcc64d8cc1a56798b8365971141937df4c2d128a",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E6%B0%B4%E5%B8%88%E9%A5%AD%E5%BA%97%E6%97%A7%E5%9D%80%E5%8D%B3%E5%B0%86%E6%95%B4%E4%BF%AE%E5%AE%8C%E6%AF%95.jpg",
+   "title": "青岛水师饭店旧址即将整修完毕"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 113102,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/dd/dde9a874add8e6974bcdb8295f71917bfd89644bfb8d509e908f6a08255f0dd1.webp",
+   "sha256": "dde9a874add8e6974bcdb8295f71917bfd89644bfb8d509e908f6a08255f0dd1",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E4%B8%80%E6%88%98%E9%81%97%E5%9D%80%E5%8D%9A%E7%89%A9%E9%A6%86_2020-01-01.jpg",
+   "title": "青岛一战遗址博物馆 2020-01-01"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 62330,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/e0/e00f3f772fb0c830998f87d0532db1da84ab9a7006c5f0183dd02d6566477968.webp",
+   "sha256": "e00f3f772fb0c830998f87d0532db1da84ab9a7006c5f0183dd02d6566477968",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E7%BA%BA%E7%BB%87%E5%8D%9A%E7%89%A9%E9%A6%86_%E9%9A%8B%E7%9F%B3%E5%8D%BF_%E5%91%A8%E5%BF%97%E4%BF%8A_%E9%99%88%E5%AD%9F%E5%85%83%E5%83%8F_2017-08-26.jpg",
+   "title": "青岛纺织博物馆 隋石卿 周志俊 陈孟元像 2017-08-26"
+  },
+  {
+   "author": "赵乐鑫1989",
+   "bytes": 220286,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/e6/e6700605bc1da2605f92f42e6d7a22053a8c58cdfc87fb84612e380631c54db0.webp",
+   "sha256": "e6700605bc1da2605f92f42e6d7a22053a8c58cdfc87fb84612e380631c54db0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%9D%A3%E6%A5%BC%E6%97%A7%E5%9D%80%E8%A5%BF%E5%8C%97%E9%9D%A2%E4%BF%AF%E8%A7%88.jpg",
+   "title": "青岛德国总督楼旧址西北面俯览"
+  },
+  {
+   "author": "Sprt98",
+   "bytes": 137182,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/ec/ec3ab7882c9bc3123f2234042fb2624886f591803a4895f16e7004898233f385.webp",
+   "sha256": "ec3ab7882c9bc3123f2234042fb2624886f591803a4895f16e7004898233f385",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E6%B0%B4%E6%97%8F%E9%A6%86%E2%80%94%E2%80%94%E6%B5%B7%E6%B4%8B%E7%94%9F%E7%89%A9%E9%A6%86%E5%86%85%E9%83%A804.jpg",
+   "title": "青岛水族馆——海洋生物馆内部04"
+  },
+  {
+   "author": "Gauthier DELECROIX - 郭天 from Qingdao, China",
+   "bytes": 39324,
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "path": "media/ed/ed23d7a5a2a102cfe6eb8aa67c12d9838be48b33009ccc00db18de9d30f29e06.webp",
+   "sha256": "ed23d7a5a2a102cfe6eb8aa67c12d9838be48b33009ccc00db18de9d30f29e06",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Around_the_clock_(49594643801).jpg",
+   "title": "Around the clock (49594643801)"
+  },
+  {
+   "author": "Sprt98",
+   "bytes": 73318,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/ef/efba3c0144481d33df8bb68c9c879ceaac9f2297bc30163c7aaa5c2555118943.webp",
+   "sha256": "efba3c0144481d33df8bb68c9c879ceaac9f2297bc30163c7aaa5c2555118943",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E6%B0%B4%E6%97%8F%E9%A6%86%E2%80%94%E2%80%94%E6%B5%B7%E5%BA%95%E4%B8%96%E7%95%8C%E5%86%85%E9%83%A801.jpg",
+   "title": "青岛水族馆——海底世界内部01"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 29740,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/ef/efc4438ccfec2f5a9d8ba99e6e5c14703ccc5285e4c4a7e0e7753d1f0ebca521.webp",
+   "sha256": "efc4438ccfec2f5a9d8ba99e6e5c14703ccc5285e4c4a7e0e7753d1f0ebca521",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E5%B1%B1%E7%82%AE%E5%8F%B0%E5%B1%B1%E9%A1%B6%E6%8C%87%E6%8C%A5%E5%8F%B0%E9%81%97%E5%9D%80_2020-01-01.jpg",
+   "title": "青岛山炮台山顶指挥台遗址 2020-01-01"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 15210,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/f1/f1905a8e9b25ddd52822178b5133896f5c53d8ef885b7cd1ed6a49b981efbeb8.webp",
+   "sha256": "f1905a8e9b25ddd52822178b5133896f5c53d8ef885b7cd1ed6a49b981efbeb8",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E7%BA%BA%E7%BB%87%E5%8D%9A%E7%89%A9%E9%A6%86_%E9%9A%8B%E7%9F%B3%E5%8D%BF_%E5%91%A8%E5%BF%97%E4%BF%8A_%E9%99%88%E5%AD%9F%E5%85%83%E5%83%8F_2017-08-26.jpg",
+   "title": "青岛纺织博物馆 隋石卿 周志俊 陈孟元像 2017-08-26"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 21480,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/f4/f4770e96ee0bda4b64aa3bfb53508cd54f29715fc02ed68cef9367aa27eaf92c.webp",
+   "sha256": "f4770e96ee0bda4b64aa3bfb53508cd54f29715fc02ed68cef9367aa27eaf92c",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E6%AC%A7%E4%BA%BA%E7%9B%91%E7%8B%B1%E5%A4%AA%E5%B9%B3%E8%B7%AF%E8%A7%86%E8%A7%92.jpg",
+   "title": "青岛欧人监狱太平路视角"
+  },
+  {
+   "author": "Windmemories",
+   "bytes": 25002,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/f4/f4a5101606d7ab68628a7d6528a4a5cf10b6652c1d9fc8714a515096b1c15c1e.webp",
+   "sha256": "f4a5101606d7ab68628a7d6528a4a5cf10b6652c1d9fc8714a515096b1c15c1e",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:20240730_Former_Site_of_European_Prison_of_Qingdao.jpg",
+   "title": "20240730 Former Site of European Prison of Qingdao"
+  },
+  {
+   "author": "赵乐鑫1989",
+   "bytes": 41866,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/f7/f7a11ecadfaa0af2e7dbb4295156ad9463cd92ffde1398122b08bdb991988769.webp",
+   "sha256": "f7a11ecadfaa0af2e7dbb4295156ad9463cd92ffde1398122b08bdb991988769",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%9D%A3%E6%A5%BC%E6%97%A7%E5%9D%80%E8%A5%BF%E5%8C%97%E9%9D%A2%E4%BF%AF%E8%A7%88.jpg",
+   "title": "青岛德国总督楼旧址西北面俯览"
+  },
+  {
+   "author": "StefanTsingtauer",
+   "bytes": 29834,
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "path": "media/fb/fba05bcf0f510226e1d3a3902214affc02bfa91c8be29f11c1bc1a150126ac4e.webp",
+   "sha256": "fba05bcf0f510226e1d3a3902214affc02bfa91c8be29f11c1bc1a150126ac4e",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E5%B1%B1%E7%82%AE%E5%8F%B0%E5%9C%B0%E4%B8%8B%E6%8E%A9%E8%94%BD%E9%83%A8%E5%8E%9F%E5%85%A5%E5%8F%A3_2020-01-01.jpg",
+   "title": "青岛山炮台地下掩蔽部原入口 2020-01-01"
+  }
+ ],
+ "schemaVersion": 2
+}

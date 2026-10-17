@@ -1,0 +1,20 @@
+# Photo credits: Yantai (CN)
+
+12 image files (full size and thumbnails). All from Wikimedia Commons. Each was resized and converted to WebP; no other changes.
+
+Machine-readable version: [attribution.json](attribution.json)
+
+| File | Title | Author | License | Source |
+|---|---|---|---|---|
+| [09cff92fd4b2…](../../../media/09/09cff92fd4b2f3743e4aa72f90a7fae24e9632822ac9ee51783de84b885354d4.webp) | 煙台博物館內部 | Vitsuha | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:%E7%85%99%E5%8F%B0%E5%8D%9A%E7%89%A9%E9%A4%A8%E5%85%A7%E9%83%A8.jpg) |
+| [1193290c108d…](../../../media/11/1193290c108d36f2c3940014222e976e5210dee003dd0c6a16aba36513b40164.webp) | 烟台市博物馆内景20240225 | 西安兵马俑 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:%E7%83%9F%E5%8F%B0%E5%B8%82%E5%8D%9A%E7%89%A9%E9%A6%86%E5%86%85%E6%99%AF20240225.jpg) |
+| [1eecd9ebf0f8…](../../../media/1e/1eecd9ebf0f83d422ccf549cd6621659ba36e7afa53e53554d0cfd97c05d5baf.webp) | 美国领事馆官邸旧址 | Ngguls | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:%E7%BE%8E%E5%9B%BD%E9%A2%86%E4%BA%8B%E9%A6%86%E5%AE%98%E9%82%B8%E6%97%A7%E5%9D%80.jpg) |
+| [39629673a22f…](../../../media/39/39629673a22fb23e5d860a33dbebde524cdc773d49e79f0cfc13e3dd92e7bdf3.webp) | Old British embassy in Yantai | Chris Huang from Beijing, China | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Old_British_embassy_in_Yantai.jpg) |
+| [417f741b2a45…](../../../media/41/417f741b2a4568e345bffb6b468356e7eadef45ad3914323dd532c4820ca18be.webp) | Old British embassy in Yantai | Chris Huang from Beijing, China | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Old_British_embassy_in_Yantai.jpg) |
+| [51d39c4de455…](../../../media/51/51d39c4de455eb2b172f74e90772c2986e5fb5508ecd5047006e1a0e4ac23c1e.webp) | 冰心纪念馆 | Ngguls | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:%E5%86%B0%E5%BF%83%E7%BA%AA%E5%BF%B5%E9%A6%86.jpg) |
+| [5881428b6ac7…](../../../media/58/5881428b6ac78cbc3d7f1287d9b03c19b7c99ded6d86d229557255ceaef5448a.webp) | 冰心纪念馆 | Ngguls | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:%E5%86%B0%E5%BF%83%E7%BA%AA%E5%BF%B5%E9%A6%86.jpg) |
+| [8e4931909c3c…](../../../media/8e/8e4931909c3c593dfa686f4e9584d3ea1ee8fdec499915048bf40e637dabc683.webp) | 美国领事馆官邸旧址 | Ngguls | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:%E7%BE%8E%E5%9B%BD%E9%A2%86%E4%BA%8B%E9%A6%86%E5%AE%98%E9%82%B8%E6%97%A7%E5%9D%80.jpg) |
+| [cd8f0b05bfba…](../../../media/cd/cd8f0b05bfba0d8d4c11b5241e352b79ed8980eb6666f0182705c4ac78dcc5ac.webp) | 煙台博物館內部 | Vitsuha | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:%E7%85%99%E5%8F%B0%E5%8D%9A%E7%89%A9%E9%A4%A8%E5%85%A7%E9%83%A8.jpg) |
+| [da5a89d36fc1…](../../../media/da/da5a89d36fc10c6a6b74f3cf409219f33052a478f54419a10f44145d19c19bc8.webp) | Yantaishan lighthouse and monument | K.Y.K.Z.K. | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Yantaishan_lighthouse_and_monument.jpg) |
+| [eea0eadfb104…](../../../media/ee/eea0eadfb1040eb50975bc6b1778ff4135c57db4d505a33e855d4685d7aa2ba5.webp) | Yantaishan lighthouse and monument | K.Y.K.Z.K. | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Yantaishan_lighthouse_and_monument.jpg) |
+| [faa860f533b0…](../../../media/fa/faa860f533b086fbf4c16c55052186d92f7906eeead5cd13ceab3c71a8ca04b6.webp) | 烟台市博物馆内景20240225 | 西安兵马俑 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:%E7%83%9F%E5%8F%B0%E5%B8%82%E5%8D%9A%E7%89%A9%E9%A6%86%E5%86%85%E6%99%AF20240225.jpg) |

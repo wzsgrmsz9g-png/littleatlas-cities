@@ -1,0 +1,643 @@
+{
+ "schemaVersion": 2,
+ "generatedAt": "2026-10-17T09:25:56Z",
+ "mediaBase": "media/",
+ "cities": [
+  {
+   "slug": "calgary-ca",
+   "name": "Calgary",
+   "country": "CA",
+   "center": {
+    "lat": 51.05011,
+    "lng": -114.08529
+   },
+   "bbox": {
+    "minLat": 50.84,
+    "minLng": -114.42,
+    "maxLat": 51.22,
+    "maxLng": -113.85
+   },
+   "population": 1306784,
+   "placeCount": 343,
+   "photoPlaceCount": 49,
+   "nursingRoomCount": 109,
+   "packVersion": 2,
+   "packUrl": "cities/calgary-ca/v2/pack.json",
+   "sizeBytes": 456631,
+   "sha256": "76e852102bb0ff0b4378cb00c6ea2994d1ebc5cbb9edceea7f0aaad8c2244c42",
+   "contentHash": "e183d601a688e9aa287264b96d2b03b0db2e21afe4c1b04c9db49a4203434336",
+   "mediaBytes": 19460158,
+   "mediaCount": 244,
+   "deltas": [
+    {
+     "fromVersion": 1,
+     "url": "cities/calgary-ca/v2/delta-from-v1.json",
+     "sizeBytes": 13283,
+     "sha256": "757a0c184bcf32fed0261dea7e2602b6847cdbe5990389c3addec4b0c4fd03a0",
+     "mediaAddedBytes": 1007064
+    }
+   ],
+   "belowParityFloor": false,
+   "photoCount": 122,
+   "confirmedNursingCount": 0,
+   "reportedNursingCount": 19
+  },
+  {
+   "slug": "chengtangcun-cn",
+   "name": "Chengtangcun",
+   "country": "CN",
+   "center": {
+    "lat": 35.08357,
+    "lng": 117.19071
+   },
+   "bbox": {
+    "minLat": 34.9102,
+    "minLng": 116.9788,
+    "maxLat": 35.2569,
+    "maxLng": 117.4026
+   },
+   "population": 1756300,
+   "placeCount": 31,
+   "photoPlaceCount": 0,
+   "nursingRoomCount": 10,
+   "packVersion": 1,
+   "packUrl": "cities/chengtangcun-cn/v1/pack.json",
+   "sizeBytes": 28401,
+   "sha256": "2a54b01eed5e535e14c6cab87ae2362e8d20648107bd2085606b6838ddac73eb",
+   "contentHash": "b508baaccfc74c6033a4d0a75347dcfe77f71731304eba8c86809941d72aba44",
+   "mediaBytes": 0,
+   "mediaCount": 0,
+   "belowParityFloor": true,
+   "photoCount": 0,
+   "confirmedNursingCount": 0,
+   "reportedNursingCount": 0
+  },
+  {
+   "slug": "hefei-cn",
+   "name": "Hefei",
+   "country": "CN",
+   "center": {
+    "lat": 31.86389,
+    "lng": 117.28083
+   },
+   "bbox": {
+    "minLat": 31.5809,
+    "minLng": 116.9477,
+    "maxLat": 32.1469,
+    "maxLng": 117.614
+   },
+   "population": 9465881,
+   "placeCount": 206,
+   "photoPlaceCount": 2,
+   "nursingRoomCount": 46,
+   "packVersion": 1,
+   "packUrl": "cities/hefei-cn/v1/pack.json",
+   "sizeBytes": 170062,
+   "sha256": "40fbf3634e6483ed997a376467acc9458364169298fba47c13055f619c73f24b",
+   "contentHash": "5c0062aa1864c80e09709ab78ec9faf38554a1a823a268d1d7444f166c60839f",
+   "mediaBytes": 656480,
+   "mediaCount": 12,
+   "belowParityFloor": true,
+   "photoCount": 6,
+   "confirmedNursingCount": 0,
+   "reportedNursingCount": 0
+  },
+  {
+   "slug": "heze-cn",
+   "name": "Heze",
+   "country": "CN",
+   "center": {
+    "lat": 35.23929,
+    "lng": 115.47358
+   },
+   "bbox": {
+    "minLat": 35.0767,
+    "minLng": 115.2745,
+    "maxLat": 35.4019,
+    "maxLng": 115.6727
+   },
+   "population": 1346717,
+   "placeCount": 24,
+   "photoPlaceCount": 0,
+   "nursingRoomCount": 5,
+   "packVersion": 1,
+   "packUrl": "cities/heze-cn/v1/pack.json",
+   "sizeBytes": 21189,
+   "sha256": "f22c1ce9edb84b337e9b29de56676299eaaf2b05b1a84020d6d5234f09252d2c",
+   "contentHash": "dd49fde3d051551e23f7eca70c4ddd98a1366e837e737b4e587a4e485dfc54fa",
+   "mediaBytes": 0,
+   "mediaCount": 0,
+   "belowParityFloor": true,
+   "photoCount": 0,
+   "confirmedNursingCount": 0,
+   "reportedNursingCount": 0
+  },
+  {
+   "slug": "hong-kong-hk",
+   "name": "Hong Kong",
+   "country": "HK",
+   "center": {
+    "lat": 22.27832,
+    "lng": 114.17469
+   },
+   "bbox": {
+    "minLat": 22.0178,
+    "minLng": 113.8932,
+    "maxLat": 22.5388,
+    "maxLng": 114.4562
+   },
+   "population": 7396076,
+   "placeCount": 1109,
+   "photoPlaceCount": 681,
+   "nursingRoomCount": 853,
+   "packVersion": 3,
+   "packUrl": "cities/hong-kong-hk/v3/pack.json",
+   "sizeBytes": 3114235,
+   "sha256": "5e7e3951ac3fc899b865837ae6e69f2e84c06ebb8911ba5c40ebb9882f899e55",
+   "contentHash": "58a969bd1052de5bd5e1370906c6fb7c64ee875a32d76448efd8a62ff262741f",
+   "mediaBytes": 298421704,
+   "mediaCount": 2894,
+   "deltas": [
+    {
+     "fromVersion": 2,
+     "url": "cities/hong-kong-hk/v3/delta-from-v2.json",
+     "sizeBytes": 4485,
+     "sha256": "09ff6d078ea5c686f5fb60b7871e0837efd1cd6c2b921d0c30b34ebff0ec0084",
+     "mediaAddedBytes": 806290
+    }
+   ],
+   "belowParityFloor": false,
+   "photoCount": 1447,
+   "confirmedNursingCount": 306,
+   "reportedNursingCount": 66
+  },
+  {
+   "slug": "jinan-cn",
+   "name": "Jinan",
+   "country": "CN",
+   "center": {
+    "lat": 36.66833,
+    "lng": 116.99722
+   },
+   "bbox": {
+    "minLat": 36.397,
+    "minLng": 116.659,
+    "maxLat": 36.9396,
+    "maxLng": 117.3354
+   },
+   "population": 8352574,
+   "placeCount": 201,
+   "photoPlaceCount": 10,
+   "nursingRoomCount": 81,
+   "packVersion": 1,
+   "packUrl": "cities/jinan-cn/v1/pack.json",
+   "sizeBytes": 206183,
+   "sha256": "e3a58728f8ae5e500fe41a97a1629eb3aced564590cbdab240a5eda1fa549459",
+   "contentHash": "b34b5ba29cc4b5761e9e4505666e428bfbd1e3b9f3474153d309ac7e8011aad1",
+   "mediaBytes": 3669074,
+   "mediaCount": 44,
+   "belowParityFloor": false,
+   "photoCount": 22,
+   "confirmedNursingCount": 0,
+   "reportedNursingCount": 1
+  },
+  {
+   "slug": "jining-cn-25",
+   "name": "Jining",
+   "country": "CN",
+   "center": {
+    "lat": 35.405,
+    "lng": 116.58139
+   },
+   "bbox": {
+    "minLat": 35.2451,
+    "minLng": 116.3852,
+    "maxLat": 35.5649,
+    "maxLng": 116.7776
+   },
+   "population": 1241012,
+   "placeCount": 25,
+   "photoPlaceCount": 0,
+   "nursingRoomCount": 12,
+   "packVersion": 1,
+   "packUrl": "cities/jining-cn-25/v1/pack.json",
+   "sizeBytes": 25865,
+   "sha256": "785bb278f10f4d91d9af3123146c90f7ee17bbf3f2b8b1b87c9dd38da72d2a5e",
+   "contentHash": "62dd108a579c60c1bcf2c2153182cac7166dfe8fab68e009c4ecec1822cc78e4",
+   "mediaBytes": 0,
+   "mediaCount": 0,
+   "belowParityFloor": true,
+   "photoCount": 0,
+   "confirmedNursingCount": 0,
+   "reportedNursingCount": 0
+  },
+  {
+   "slug": "liaocheng-cn",
+   "name": "Liaocheng",
+   "country": "CN",
+   "center": {
+    "lat": 36.45064,
+    "lng": 116.00247
+   },
+   "bbox": {
+    "minLat": 36.2907,
+    "minLng": 115.8037,
+    "maxLat": 36.6105,
+    "maxLng": 116.2013
+   },
+   "population": 1229768,
+   "placeCount": 21,
+   "photoPlaceCount": 1,
+   "nursingRoomCount": 12,
+   "packVersion": 1,
+   "packUrl": "cities/liaocheng-cn/v1/pack.json",
+   "sizeBytes": 25837,
+   "sha256": "f5fd56eb6c98e9481f4082653c07c5a1fe5b6b286ea288652fe72dd925d67532",
+   "contentHash": "ec4ff282245ddfc7f0e5a3e3153f57000dc80486e11b589cbee5ccffddfea588",
+   "mediaBytes": 506062,
+   "mediaCount": 4,
+   "belowParityFloor": true,
+   "photoCount": 2,
+   "confirmedNursingCount": 0,
+   "reportedNursingCount": 0
+  },
+  {
+   "slug": "linyi-cn",
+   "name": "Linyi",
+   "country": "CN",
+   "center": {
+    "lat": 35.06306,
+    "lng": 118.34278
+   },
+   "bbox": {
+    "minLat": 34.869,
+    "minLng": 118.1057,
+    "maxLat": 35.2571,
+    "maxLng": 118.5798
+   },
+   "population": 2743843,
+   "placeCount": 64,
+   "photoPlaceCount": 3,
+   "nursingRoomCount": 18,
+   "packVersion": 1,
+   "packUrl": "cities/linyi-cn/v1/pack.json",
+   "sizeBytes": 60988,
+   "sha256": "7422179c1ad833944bf4a15429f053d983689b12d4f1d782568fbbd899bed3ce",
+   "contentHash": "ffff5222322192096d1d235887160f19d3c782e00018ff5a51f0677f089f497d",
+   "mediaBytes": 885368,
+   "mediaCount": 12,
+   "belowParityFloor": true,
+   "photoCount": 6,
+   "confirmedNursingCount": 0,
+   "reportedNursingCount": 0
+  },
+  {
+   "slug": "qingdao-cn",
+   "name": "Qingdao",
+   "country": "CN",
+   "center": {
+    "lat": 36.06488,
+    "lng": 120.38042
+   },
+   "bbox": {
+    "minLat": 35.8071,
+    "minLng": 120.0615,
+    "maxLat": 36.3227,
+    "maxLng": 120.6994
+   },
+   "population": 7172451,
+   "placeCount": 199,
+   "photoPlaceCount": 13,
+   "nursingRoomCount": 194,
+   "packVersion": 1,
+   "packUrl": "cities/qingdao-cn/v1/pack.json",
+   "sizeBytes": 294649,
+   "sha256": "4551444c6c750b7d6d251f8fe7ad032fd41a5ce6ac705f66750406e4925dd5dd",
+   "contentHash": "a37583c0d6eced8e4c742af11b1d18b0092fceca03c050380ee8e039b70e61d3",
+   "mediaBytes": 4258082,
+   "mediaCount": 62,
+   "belowParityFloor": false,
+   "photoCount": 31,
+   "confirmedNursingCount": 0,
+   "reportedNursingCount": 2
+  },
+  {
+   "slug": "shanghai-cn",
+   "name": "Shanghai",
+   "country": "CN",
+   "center": {
+    "lat": 31.22222,
+    "lng": 121.45806
+   },
+   "bbox": {
+    "minLat": 30.8629,
+    "minLng": 121.0379,
+    "maxLat": 31.5815,
+    "maxLng": 121.8782
+   },
+   "population": 24874500,
+   "placeCount": 716,
+   "photoPlaceCount": 110,
+   "nursingRoomCount": 474,
+   "packVersion": 2,
+   "packUrl": "cities/shanghai-cn/v2/pack.json",
+   "sizeBytes": 1053927,
+   "sha256": "0091242f9795f785b2eae8b675fef5bd302c1269d9f737b5704e1ffca1d96994",
+   "contentHash": "4e55142d13a740d571ea82494e862d2e77ee6d83cb0a51cd834c623ace3581b4",
+   "mediaBytes": 46268078,
+   "mediaCount": 532,
+   "deltas": [
+    {
+     "fromVersion": 1,
+     "url": "cities/shanghai-cn/v2/delta-from-v1.json",
+     "sizeBytes": 10067,
+     "sha256": "b4cdc2f6316715b1a52313fbdd312c3846de4f781ebac5a6d9ee40005466b925",
+     "mediaAddedBytes": 497870
+    }
+   ],
+   "belowParityFloor": false,
+   "photoCount": 267,
+   "confirmedNursingCount": 0,
+   "reportedNursingCount": 25
+  },
+  {
+   "slug": "shenzhen-cn",
+   "name": "Shenzhen",
+   "country": "CN",
+   "center": {
+    "lat": 22.54554,
+    "lng": 114.0683
+   },
+   "bbox": {
+    "minLat": 22.1925,
+    "minLng": 113.6861,
+    "maxLat": 22.8986,
+    "maxLng": 114.4505
+   },
+   "population": 17494398,
+   "placeCount": 594,
+   "photoPlaceCount": 41,
+   "nursingRoomCount": 433,
+   "packVersion": 2,
+   "packUrl": "cities/shenzhen-cn/v2/pack.json",
+   "sizeBytes": 808734,
+   "sha256": "b39f07c54ec6a13f9e151d00a97f4ea101cef6860bb5b5a8b39c2ab94aff9287",
+   "contentHash": "b14cb52452d3cff77ce0c3c73694f971f83918b45ac1c9e7d02ae141dfe0ee16",
+   "mediaBytes": 16468710,
+   "mediaCount": 200,
+   "deltas": [
+    {
+     "fromVersion": 1,
+     "url": "cities/shenzhen-cn/v2/delta-from-v1.json",
+     "sizeBytes": 4806,
+     "sha256": "0be55587e6a23b6800971688d039e9ebf90dc6c1f993aa2718e23117d2ab481d",
+     "mediaAddedBytes": 0
+    }
+   ],
+   "belowParityFloor": false,
+   "photoCount": 100,
+   "confirmedNursingCount": 0,
+   "reportedNursingCount": 68
+  },
+  {
+   "slug": "tai-an-cn-25",
+   "name": "Tai’an",
+   "country": "CN",
+   "center": {
+    "lat": 36.18528,
+    "lng": 117.12
+   },
+   "bbox": {
+    "minLat": 36.0128,
+    "minLng": 116.9063,
+    "maxLat": 36.3578,
+    "maxLng": 117.3337
+   },
+   "population": 1735425,
+   "placeCount": 47,
+   "photoPlaceCount": 0,
+   "nursingRoomCount": 9,
+   "packVersion": 1,
+   "packUrl": "cities/tai-an-cn-25/v1/pack.json",
+   "sizeBytes": 39276,
+   "sha256": "ffeafbf594509e276e12737e4f42fdf04cd3f6ee54d0c45e23b70ec2b3b5e7da",
+   "contentHash": "cf4d2e499843933373369291c137b49ab75d9e31555eb6e1ede85c3bbcb03a54",
+   "mediaBytes": 0,
+   "mediaCount": 0,
+   "belowParityFloor": true,
+   "photoCount": 0,
+   "confirmedNursingCount": 0,
+   "reportedNursingCount": 0
+  },
+  {
+   "slug": "weifang-cn",
+   "name": "Weifang",
+   "country": "CN",
+   "center": {
+    "lat": 36.71,
+    "lng": 119.10194
+   },
+   "bbox": {
+    "minLat": 36.4279,
+    "minLng": 118.7501,
+    "maxLat": 36.9921,
+    "maxLng": 119.4538
+   },
+   "population": 9386705,
+   "placeCount": 109,
+   "photoPlaceCount": 4,
+   "nursingRoomCount": 41,
+   "packVersion": 1,
+   "packUrl": "cities/weifang-cn/v1/pack.json",
+   "sizeBytes": 105824,
+   "sha256": "515332598ca007fc7f6d71be735e2a608578fc67cb758f3beb7bfc57f184fef7",
+   "contentHash": "a782dc1ec8ec360f0b2e066536ff7e9e2db9e4e6dcb759115755b7a385852dd2",
+   "mediaBytes": 1176228,
+   "mediaCount": 18,
+   "belowParityFloor": true,
+   "photoCount": 9,
+   "confirmedNursingCount": 0,
+   "reportedNursingCount": 0
+  },
+  {
+   "slug": "yantai-cn-25",
+   "name": "Yantai",
+   "country": "CN",
+   "center": {
+    "lat": 37.47649,
+    "lng": 121.44081
+   },
+   "bbox": {
+    "minLat": 37.2187,
+    "minLng": 121.1159,
+    "maxLat": 37.7343,
+    "maxLng": 121.7657
+   },
+   "population": 7102100,
+   "placeCount": 101,
+   "photoPlaceCount": 3,
+   "nursingRoomCount": 40,
+   "packVersion": 1,
+   "packUrl": "cities/yantai-cn-25/v1/pack.json",
+   "sizeBytes": 102148,
+   "sha256": "ddf0059cc5764252b5c69f7324d00e1955cb822db203170454e6bdd380c0f1d9",
+   "contentHash": "35e43d47291ba42bd692e271c6bef507ceccbcd851410954c788008c29990d6f",
+   "mediaBytes": 1058638,
+   "mediaCount": 12,
+   "belowParityFloor": true,
+   "photoCount": 6,
+   "confirmedNursingCount": 0,
+   "reportedNursingCount": 0
+  },
+  {
+   "slug": "yishui-cn",
+   "name": "Yishui",
+   "country": "CN",
+   "center": {
+    "lat": 35.78472,
+    "lng": 118.62806
+   },
+   "bbox": {
+    "minLat": 35.632,
+    "minLng": 118.4398,
+    "maxLat": 35.9374,
+    "maxLng": 118.8163
+   },
+   "population": 1007100,
+   "placeCount": 8,
+   "photoPlaceCount": 0,
+   "nursingRoomCount": 2,
+   "packVersion": 1,
+   "packUrl": "cities/yishui-cn/v1/pack.json",
+   "sizeBytes": 9736,
+   "sha256": "61b3f95088e73b6504fc873c5b1154e90d75d61894baf16b40800eca595aedc9",
+   "contentHash": "2824eb647ff15bb6c0df48da24c22a2e2bf28faeede70c822579ce1fa7191be4",
+   "mediaBytes": 0,
+   "mediaCount": 0,
+   "belowParityFloor": true,
+   "photoCount": 0,
+   "confirmedNursingCount": 0,
+   "reportedNursingCount": 0
+  },
+  {
+   "slug": "zaozhuang-cn",
+   "name": "Zaozhuang",
+   "country": "CN",
+   "center": {
+    "lat": 34.86472,
+    "lng": 117.55417
+   },
+   "bbox": {
+    "minLat": 34.6518,
+    "minLng": 117.2947,
+    "maxLat": 35.0776,
+    "maxLng": 117.8136
+   },
+   "population": 3855601,
+   "placeCount": 30,
+   "photoPlaceCount": 1,
+   "nursingRoomCount": 2,
+   "packVersion": 1,
+   "packUrl": "cities/zaozhuang-cn/v1/pack.json",
+   "sizeBytes": 26346,
+   "sha256": "37a19065432926ae8ee31b19e94cd6735d488be9d1af35664f90278c8e7eeff9",
+   "contentHash": "763e4d6fb218de6dd7ffcb3cfed324926d030bcaae70e60d52fe6d9737a07b15",
+   "mediaBytes": 307692,
+   "mediaCount": 6,
+   "belowParityFloor": true,
+   "photoCount": 3,
+   "confirmedNursingCount": 0,
+   "reportedNursingCount": 0
+  },
+  {
+   "slug": "zhu-cheng-city-cn",
+   "name": "Zhu Cheng City",
+   "country": "CN",
+   "center": {
+    "lat": 35.99502,
+    "lng": 119.40259
+   },
+   "bbox": {
+    "minLat": 35.8423,
+    "minLng": 119.2138,
+    "maxLat": 36.1477,
+    "maxLng": 119.5913
+   },
+   "population": 1000000,
+   "placeCount": 17,
+   "photoPlaceCount": 1,
+   "nursingRoomCount": 5,
+   "packVersion": 1,
+   "packUrl": "cities/zhu-cheng-city-cn/v1/pack.json",
+   "sizeBytes": 18552,
+   "sha256": "427bc9c056a164fe4b29ab0073a4d96dc9664bf11be5098562f8e3a6003ad51f",
+   "contentHash": "9ffae91d53f51f06908f07c660f836d1ad5578982467b8491e3c9feb2babce09",
+   "mediaBytes": 181042,
+   "mediaCount": 2,
+   "belowParityFloor": true,
+   "photoCount": 1,
+   "confirmedNursingCount": 0,
+   "reportedNursingCount": 0
+  },
+  {
+   "slug": "zibo-cn",
+   "name": "Zibo",
+   "country": "CN",
+   "center": {
+    "lat": 36.79056,
+    "lng": 118.06333
+   },
+   "bbox": {
+    "minLat": 36.5642,
+    "minLng": 117.7807,
+    "maxLat": 37.0169,
+    "maxLng": 118.346
+   },
+   "population": 4704138,
+   "placeCount": 43,
+   "photoPlaceCount": 0,
+   "nursingRoomCount": 26,
+   "packVersion": 1,
+   "packUrl": "cities/zibo-cn/v1/pack.json",
+   "sizeBytes": 47660,
+   "sha256": "36d7db1c5d5e6712230053c36b3373af9f34296b9b8ba9042e7fb541a6618f4d",
+   "contentHash": "52209370b25dfb84d438c7a12f773044e2e42f15b3f6f6e71f9d1cac32203392",
+   "mediaBytes": 0,
+   "mediaCount": 0,
+   "belowParityFloor": true,
+   "photoCount": 0,
+   "confirmedNursingCount": 0,
+   "reportedNursingCount": 0
+  },
+  {
+   "slug": "zoucheng-cn",
+   "name": "Zoucheng",
+   "country": "CN",
+   "center": {
+    "lat": 35.40056,
+    "lng": 116.96556
+   },
+   "bbox": {
+    "minLat": 35.2443,
+    "minLng": 116.7738,
+    "maxLat": 35.5569,
+    "maxLng": 117.1573
+   },
+   "population": 1116692,
+   "placeCount": 24,
+   "photoPlaceCount": 1,
+   "nursingRoomCount": 9,
+   "packVersion": 1,
+   "packUrl": "cities/zoucheng-cn/v1/pack.json",
+   "sizeBytes": 26498,
+   "sha256": "557b1ab83100279b00449a6ea12d2a66fe8d0672575e1d25e871aefad5f28c18",
+   "contentHash": "debc5c9617bc1d73487ae42cd25781f7eea8ac86e5b8961f93386d3906108afa",
+   "mediaBytes": 494706,
+   "mediaCount": 6,
+   "belowParityFloor": true,
+   "photoCount": 3,
+   "confirmedNursingCount": 0,
+   "reportedNursingCount": 0
+  }
+ ]
+}
